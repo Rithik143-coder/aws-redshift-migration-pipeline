@@ -1,0 +1,7 @@
+{
+    "source_database": "legacy_db",
+    "target_database": "target_dw",
+    "table_mappings": {
+        "customer_data": "customer_table"
+    }
+}
