@@ -26,3 +26,10 @@ This project simulates a legacy data warehouse migration to Amazon Redshift usin
 - Deploy infrastructure with Terraform
 - Trigger NiFi ingestion
 - Run Glue jobs via Lambda
+
+---
+
+## Real-World Relevance
+
+This project reflects my professional experience at Blue Shield of California, where I led the migration of a legacy on-premise data warehouse to Amazon Redshift. The components in this repository simulate ETL workflows, data validation, and automation pipelines similar to what was used in a production healthcare environment. To maintain data privacy, mock data and open-source tools were used to recreate the architectural approach. As Healthcare Data is sensitive, I have used sample data for this project. 
+
